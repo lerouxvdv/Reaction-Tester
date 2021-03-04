@@ -1,0 +1,22 @@
+#playingSpace {
+		
+			height: 800px;
+			width: 1500px;
+			background-color: red;
+		
+		}
+		
+		#reactionSpace {
+		
+			height: 50px;
+			width: 50px;
+			background-color: blue;
+			position:relative;
+		
+		}
+		
+		#time {
+		
+		font-weight: bold;
+		
+		}
